@@ -32,6 +32,11 @@
 ---
 ### Meme:
 
+<p align="center"> 
+<img src="./cheemsreprobacion.jpg">
+</p>
+
+
 ---
 ### Representación gráfica de exámen:
 
